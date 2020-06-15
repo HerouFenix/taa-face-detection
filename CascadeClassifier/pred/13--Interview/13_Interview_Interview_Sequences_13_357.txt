@@ -1,0 +1,4 @@
+13_Interview_Interview_Sequences_13_357.jpg
+2
+[420, 59, 92, 92, 1.0]
+[496, 73, 57, 57, 1.0]

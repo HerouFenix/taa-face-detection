@@ -1,0 +1,3 @@
+32_Worker_Laborer_Worker_Laborer_32_36.jpg
+1
+[618, 520, 45, 45, 1.0]

@@ -1,0 +1,4 @@
+52_Photographers_taketouristphotos_52_23.jpg
+2
+[175, 85, 154, 154, 1.0]
+[775, 323, 31, 31, 1.0]

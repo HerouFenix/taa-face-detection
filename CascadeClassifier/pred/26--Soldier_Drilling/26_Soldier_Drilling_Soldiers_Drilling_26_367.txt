@@ -1,0 +1,4 @@
+26_Soldier_Drilling_Soldiers_Drilling_26_367.jpg
+2
+[735, 74, 104, 104, 1.0]
+[598, 99, 75, 75, 1.0]

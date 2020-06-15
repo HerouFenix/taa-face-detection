@@ -1,0 +1,4 @@
+35_Basketball_basketballgame_ball_35_597.jpg
+2
+[764, 273, 26, 26, 1.0]
+[624, 352, 61, 61, 1.0]

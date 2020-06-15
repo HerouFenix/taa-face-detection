@@ -1,0 +1,4 @@
+55_Sports_Coach_Trainer_sportcoaching_55_768.jpg
+2
+[523, 272, 90, 90, 1.0]
+[456, 350, 74, 74, 1.0]

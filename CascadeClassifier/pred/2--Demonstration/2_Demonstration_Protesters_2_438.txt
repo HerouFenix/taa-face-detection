@@ -1,0 +1,3 @@
+2_Demonstration_Protesters_2_438.jpg
+1
+[4, 17, 68, 68, 1.0]

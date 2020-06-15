@@ -1,0 +1,3 @@
+15_Stock_Market_Stock_Market_15_680.jpg
+1
+[464, 134, 124, 124, 1.0]

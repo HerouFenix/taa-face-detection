@@ -1,0 +1,3 @@
+2_Demonstration_Protesters_2_845.jpg
+1
+[255, 179, 26, 26, 1.0]

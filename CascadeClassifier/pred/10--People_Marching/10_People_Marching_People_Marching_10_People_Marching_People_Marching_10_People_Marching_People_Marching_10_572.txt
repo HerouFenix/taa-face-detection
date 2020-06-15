@@ -1,0 +1,5 @@
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_572.jpg
+3
+[143, 202, 67, 67, 1.0]
+[471, 223, 100, 100, 1.0]
+[277, 361, 73, 73, 1.0]

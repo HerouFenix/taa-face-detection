@@ -1,0 +1,3 @@
+45_Balloonist_Balloonist_45_423.jpg
+1
+[206, 250, 481, 481, 1.0]

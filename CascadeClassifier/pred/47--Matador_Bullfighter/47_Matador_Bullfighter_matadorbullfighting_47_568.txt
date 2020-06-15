@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_matadorbullfighting_47_568.jpg
+3
+[143, 1, 121, 121, 1.0]
+[302, 158, 251, 251, 1.0]
+[441, 852, 140, 140, 1.0]

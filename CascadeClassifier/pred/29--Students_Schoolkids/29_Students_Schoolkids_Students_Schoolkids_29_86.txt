@@ -1,0 +1,5 @@
+29_Students_Schoolkids_Students_Schoolkids_29_86.jpg
+3
+[348, 226, 26, 26, 1.0]
+[15, 352, 121, 121, 1.0]
+[667, 537, 59, 59, 1.0]

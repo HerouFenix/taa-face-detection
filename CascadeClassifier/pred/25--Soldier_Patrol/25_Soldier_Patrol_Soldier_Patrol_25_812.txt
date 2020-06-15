@@ -1,0 +1,3 @@
+25_Soldier_Patrol_Soldier_Patrol_25_812.jpg
+1
+[670, 483, 53, 53, 1.0]
