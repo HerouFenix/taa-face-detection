@@ -1,0 +1,3 @@
+49_Greeting_peoplegreeting_49_369.jpg
+1
+[436, 247, 170, 170, 1.0]

@@ -1,0 +1,4 @@
+12_Group_Large_Group_12_Group_Large_Group_12_237.jpg
+2
+[804, 561, 31, 31, 1.0]
+[805, 718, 32, 32, 1.0]

@@ -1,0 +1,3 @@
+1_Handshaking_Handshaking_1_606.jpg
+1
+[434, 493, 60, 60, 1.0]

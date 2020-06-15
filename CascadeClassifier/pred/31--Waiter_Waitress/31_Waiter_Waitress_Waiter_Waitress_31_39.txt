@@ -1,0 +1,4 @@
+31_Waiter_Waitress_Waiter_Waitress_31_39.jpg
+2
+[850, 148, 56, 56, 1.0]
+[84, 354, 130, 130, 1.0]

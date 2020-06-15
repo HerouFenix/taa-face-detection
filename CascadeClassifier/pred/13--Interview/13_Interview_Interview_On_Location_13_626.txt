@@ -1,0 +1,4 @@
+13_Interview_Interview_On_Location_13_626.jpg
+2
+[702, 102, 53, 53, 1.0]
+[201, 222, 596, 596, 1.0]

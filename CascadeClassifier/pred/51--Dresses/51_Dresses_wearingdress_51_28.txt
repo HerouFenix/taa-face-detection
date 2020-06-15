@@ -1,0 +1,3 @@
+51_Dresses_wearingdress_51_28.jpg
+1
+[213, 230, 145, 145, 1.0]

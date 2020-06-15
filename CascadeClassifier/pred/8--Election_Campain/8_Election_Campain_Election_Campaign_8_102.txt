@@ -1,0 +1,4 @@
+8_Election_Campain_Election_Campaign_8_102.jpg
+2
+[363, 183, 292, 292, 1.0]
+[120, 151, 360, 360, 1.0]

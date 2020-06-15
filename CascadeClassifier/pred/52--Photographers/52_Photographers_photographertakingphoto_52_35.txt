@@ -1,0 +1,4 @@
+52_Photographers_photographertakingphoto_52_35.jpg
+2
+[134, 1123, 55, 55, 1.0]
+[597, 1160, 52, 52, 1.0]

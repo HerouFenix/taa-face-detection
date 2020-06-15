@@ -1,0 +1,4 @@
+2_Demonstration_Demonstrators_2_567.jpg
+2
+[177, 72, 60, 60, 1.0]
+[545, 55, 73, 73, 1.0]

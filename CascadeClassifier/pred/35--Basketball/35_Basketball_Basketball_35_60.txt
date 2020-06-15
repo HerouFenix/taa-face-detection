@@ -1,0 +1,3 @@
+35_Basketball_Basketball_35_60.jpg
+1
+[453, 327, 100, 100, 1.0]

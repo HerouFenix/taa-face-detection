@@ -1,0 +1,3 @@
+40_Gymnastics_Gymnastics_40_240.jpg
+1
+[491, 339, 52, 52, 1.0]

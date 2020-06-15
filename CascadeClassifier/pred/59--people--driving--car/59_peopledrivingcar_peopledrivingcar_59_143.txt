@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_143.jpg
+2
+[140, 172, 239, 239, 1.0]
+[429, 155, 154, 154, 1.0]

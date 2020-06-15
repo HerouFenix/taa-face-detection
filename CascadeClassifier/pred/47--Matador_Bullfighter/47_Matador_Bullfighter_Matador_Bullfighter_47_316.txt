@@ -1,0 +1,5 @@
+47_Matador_Bullfighter_Matador_Bullfighter_47_316.jpg
+3
+[390, 247, 50, 50, 1.0]
+[133, 324, 81, 81, 1.0]
+[15, 582, 25, 25, 1.0]

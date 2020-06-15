@@ -1,0 +1,4 @@
+11_Meeting_Meeting_11_Meeting_Meeting_11_309.jpg
+2
+[414, 339, 31, 31, 1.0]
+[87, 334, 45, 45, 1.0]

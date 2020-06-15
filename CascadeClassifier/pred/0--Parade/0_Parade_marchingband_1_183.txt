@@ -1,0 +1,3 @@
+0_Parade_marchingband_1_183.jpg
+1
+[246, 264, 99, 99, 1.0]

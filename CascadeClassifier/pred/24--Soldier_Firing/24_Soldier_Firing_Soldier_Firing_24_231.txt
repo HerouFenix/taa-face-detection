@@ -1,0 +1,3 @@
+24_Soldier_Firing_Soldier_Firing_24_231.jpg
+1
+[514, 540, 81, 81, 1.0]

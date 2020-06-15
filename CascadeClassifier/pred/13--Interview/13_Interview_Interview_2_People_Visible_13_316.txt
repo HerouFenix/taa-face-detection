@@ -1,0 +1,4 @@
+13_Interview_Interview_2_People_Visible_13_316.jpg
+2
+[481, 201, 357, 357, 1.0]
+[586, 664, 152, 152, 1.0]

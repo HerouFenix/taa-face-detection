@@ -1,0 +1,4 @@
+36_Football_americanfootball_ball_36_613.jpg
+2
+[282, 90, 340, 340, 1.0]
+[107, 1037, 72, 72, 1.0]

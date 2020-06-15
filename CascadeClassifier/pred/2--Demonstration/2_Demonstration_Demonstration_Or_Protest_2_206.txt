@@ -1,0 +1,5 @@
+2_Demonstration_Demonstration_Or_Protest_2_206.jpg
+3
+[204, 506, 31, 31, 1.0]
+[877, 446, 51, 51, 1.0]
+[246, 493, 58, 58, 1.0]

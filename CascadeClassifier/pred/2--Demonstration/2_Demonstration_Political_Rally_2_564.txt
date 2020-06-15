@@ -1,0 +1,4 @@
+2_Demonstration_Political_Rally_2_564.jpg
+2
+[363, 99, 365, 365, 1.0]
+[721, 520, 74, 74, 1.0]

@@ -1,0 +1,4 @@
+29_Students_Schoolkids_Students_Schoolkids_29_200.jpg
+2
+[550, 183, 141, 141, 1.0]
+[549, 248, 194, 194, 1.0]

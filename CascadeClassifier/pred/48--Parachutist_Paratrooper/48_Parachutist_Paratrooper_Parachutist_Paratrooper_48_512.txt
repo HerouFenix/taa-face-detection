@@ -1,0 +1,5 @@
+48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_512.jpg
+3
+[804, 122, 33, 33, 1.0]
+[547, 137, 121, 121, 1.0]
+[747, 353, 27, 27, 1.0]

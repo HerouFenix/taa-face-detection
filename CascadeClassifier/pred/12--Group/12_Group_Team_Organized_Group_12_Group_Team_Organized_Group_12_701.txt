@@ -1,0 +1,5 @@
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_701.jpg
+3
+[618, 212, 26, 26, 1.0]
+[308, 176, 53, 53, 1.0]
+[6, 247, 60, 60, 1.0]
