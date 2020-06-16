@@ -1,0 +1,5 @@
+35_Basketball_basketballgame_ball_35_542.jpg
+3
+547 256 52 52 1.0
+311 257 56 56 1.0
+822 267 80 80 1.0

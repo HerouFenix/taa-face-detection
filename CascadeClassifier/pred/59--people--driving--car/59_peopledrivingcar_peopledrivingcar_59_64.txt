@@ -1,0 +1,4 @@
+59_peopledrivingcar_peopledrivingcar_59_64.jpg
+2
+708 140 140 140 1.0
+499 153 184 184 1.0

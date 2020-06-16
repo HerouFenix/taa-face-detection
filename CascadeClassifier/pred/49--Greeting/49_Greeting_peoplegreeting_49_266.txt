@@ -1,0 +1,4 @@
+49_Greeting_peoplegreeting_49_266.jpg
+2
+240 94 30 30 1.0
+617 257 56 56 1.0

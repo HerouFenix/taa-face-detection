@@ -1,0 +1,5 @@
+35_Basketball_basketballgame_ball_35_736.jpg
+3
+924 294 54 54 1.0
+478 194 84 84 1.0
+896 343 61 61 1.0

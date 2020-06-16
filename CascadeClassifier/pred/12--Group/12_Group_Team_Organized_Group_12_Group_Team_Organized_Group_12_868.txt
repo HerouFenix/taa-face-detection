@@ -1,4 +1,4 @@
 12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_868.jpg
 2
-[440, 96, 97, 97, 1.0]
-[660, 463, 120, 120, 1.0]
+440 96 97 97 1.0
+660 463 120 120 1.0

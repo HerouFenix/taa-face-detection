@@ -1,0 +1,5 @@
+52_Photographers_photographertakingphoto_52_228.jpg
+3
+590 166 36 36 1.0
+526 193 34 34 1.0
+435 304 108 108 1.0

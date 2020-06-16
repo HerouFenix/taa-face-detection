@@ -1,0 +1,5 @@
+59_peopledrivingcar_peopledrivingcar_59_283.jpg
+3
+138 177 54 54 1.0
+705 330 57 57 1.0
+672 357 60 60 1.0
