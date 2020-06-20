@@ -1,4 +1,0 @@
-13_Interview_Interview_Sequences_13_606.jpg
-2
-[525, 121, 86, 86, 1.0]
-[365, 342, 65, 65, 1.0]

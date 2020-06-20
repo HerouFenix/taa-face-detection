@@ -1,5 +1,0 @@
-29_Students_Schoolkids_Students_Schoolkids_29_510.jpg
-3
-[895, 45, 79, 79, 1.0]
-[471, 44, 91, 91, 1.0]
-[720, 172, 75, 75, 1.0]

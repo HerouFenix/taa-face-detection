@@ -1,0 +1,5 @@
+35_Basketball_basketballgame_ball_35_375.jpg
+3
+523 57 56 56 1.0
+796 123 58 58 1.0
+641 66 57 57 1.0

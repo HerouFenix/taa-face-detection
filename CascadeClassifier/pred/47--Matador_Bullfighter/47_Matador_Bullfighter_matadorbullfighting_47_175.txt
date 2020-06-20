@@ -1,5 +1,0 @@
-47_Matador_Bullfighter_matadorbullfighting_47_175.jpg
-3
-[712, 240, 96, 96, 1.0]
-[584, 247, 98, 98, 1.0]
-[275, 408, 55, 55, 1.0]

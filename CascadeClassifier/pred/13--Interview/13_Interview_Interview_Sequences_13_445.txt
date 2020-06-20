@@ -1,3 +1,0 @@
-13_Interview_Interview_Sequences_13_445.jpg
-1
-[752, 105, 197, 197, 1.0]

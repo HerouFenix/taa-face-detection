@@ -1,4 +1,0 @@
-13_Interview_Interview_2_People_Visible_13_390.jpg
-2
-[950, 500, 28, 28, 1.0]
-[183, 311, 626, 626, 1.0]

@@ -1,4 +1,0 @@
-2_Demonstration_Demonstrators_2_45.jpg
-2
-[702, 35, 37, 37, 1.0]
-[435, 207, 61, 61, 1.0]

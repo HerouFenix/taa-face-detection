@@ -1,5 +1,5 @@
 10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_499.jpg
 3
-[935, 36, 57, 57, 1.0]
-[804, 302, 56, 56, 1.0]
-[498, 245, 87, 87, 1.0]
+935 36 57 57 1.0
+804 302 56 56 1.0
+498 245 87 87 1.0

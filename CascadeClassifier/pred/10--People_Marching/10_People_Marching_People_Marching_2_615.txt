@@ -1,4 +1,0 @@
-10_People_Marching_People_Marching_2_615.jpg
-2
-[357, 245, 241, 241, 1.0]
-[728, 846, 54, 54, 1.0]

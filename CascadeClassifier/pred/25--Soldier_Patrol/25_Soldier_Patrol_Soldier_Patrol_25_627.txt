@@ -1,3 +1,0 @@
-25_Soldier_Patrol_Soldier_Patrol_25_627.jpg
-1
-[368, 240, 50, 50, 1.0]

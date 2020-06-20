@@ -1,5 +1,0 @@
-48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_337.jpg
-3
-[142, 58, 62, 62, 1.0]
-[40, 361, 61, 61, 1.0]
-[671, 517, 53, 53, 1.0]

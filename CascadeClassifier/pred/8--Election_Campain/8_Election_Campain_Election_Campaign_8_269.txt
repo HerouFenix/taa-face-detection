@@ -1,0 +1,5 @@
+8_Election_Campain_Election_Campaign_8_269.jpg
+3
+330 175 326 326 1.0
+363 343 236 236 1.0
+483 1022 52 52 1.0

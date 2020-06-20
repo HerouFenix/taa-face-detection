@@ -1,0 +1,4 @@
+49_Greeting_peoplegreeting_49_307.jpg
+2
+172 272 44 44 1.0
+294 404 97 97 1.0

@@ -1,4 +1,0 @@
-35_Basketball_playingbasketball_35_673.jpg
-2
-[450, 37, 148, 148, 1.0]
-[500, 965, 79, 79, 1.0]

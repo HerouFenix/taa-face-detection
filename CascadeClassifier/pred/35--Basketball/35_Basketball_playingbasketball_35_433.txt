@@ -1,0 +1,4 @@
+35_Basketball_playingbasketball_35_433.jpg
+2
+649 249 32 32 1.0
+400 972 60 60 1.0

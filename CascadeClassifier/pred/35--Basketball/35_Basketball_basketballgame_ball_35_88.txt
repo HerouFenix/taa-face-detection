@@ -1,4 +1,0 @@
-35_Basketball_basketballgame_ball_35_88.jpg
-2
-[493, 133, 83, 83, 1.0]
-[900, 521, 27, 27, 1.0]

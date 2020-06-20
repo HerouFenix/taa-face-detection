@@ -1,3 +1,0 @@
-1_Handshaking_Handshaking_1_654.jpg
-1
-[26, 360, 50, 50, 1.0]

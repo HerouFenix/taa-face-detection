@@ -1,3 +1,0 @@
-5_Car_Accident_Accident_5_837.jpg
-1
-[2, 229, 98, 98, 1.0]

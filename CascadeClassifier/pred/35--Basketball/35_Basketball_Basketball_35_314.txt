@@ -1,3 +1,0 @@
-35_Basketball_Basketball_35_314.jpg
-1
-[133, 512, 31, 31, 1.0]

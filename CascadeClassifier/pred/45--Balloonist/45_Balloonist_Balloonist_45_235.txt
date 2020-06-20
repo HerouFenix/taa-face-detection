@@ -1,3 +1,0 @@
-45_Balloonist_Balloonist_45_235.jpg
-1
-[224, 170, 416, 416, 1.0]

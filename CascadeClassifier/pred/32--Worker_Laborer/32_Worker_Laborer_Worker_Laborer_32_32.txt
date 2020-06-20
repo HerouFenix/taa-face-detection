@@ -1,4 +1,0 @@
-32_Worker_Laborer_Worker_Laborer_32_32.jpg
-2
-[316, 63, 64, 64, 1.0]
-[114, 96, 75, 75, 1.0]

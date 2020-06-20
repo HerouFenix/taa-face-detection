@@ -1,5 +1,0 @@
-12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_370.jpg
-3
-[869, 256, 49, 49, 1.0]
-[108, 308, 60, 60, 1.0]
-[845, 559, 61, 61, 1.0]

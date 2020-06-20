@@ -1,4 +1,0 @@
-26_Soldier_Drilling_Soldiers_Drilling_26_544.jpg
-2
-[308, 515, 320, 320, 1.0]
-[234, 1084, 66, 66, 1.0]

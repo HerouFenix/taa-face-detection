@@ -1,4 +1,0 @@
-12_Group_Large_Group_12_Group_Large_Group_12_500.jpg
-2
-[903, 28, 103, 103, 1.0]
-[224, 215, 66, 66, 1.0]

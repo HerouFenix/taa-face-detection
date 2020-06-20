@@ -1,3 +1,0 @@
-15_Stock_Market_Stock_Market_15_968.jpg
-1
-[305, 157, 64, 64, 1.0]

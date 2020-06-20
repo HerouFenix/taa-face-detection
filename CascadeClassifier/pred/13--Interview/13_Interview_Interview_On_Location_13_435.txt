@@ -1,4 +1,0 @@
-13_Interview_Interview_On_Location_13_435.jpg
-2
-[106, 100, 813, 813, 1.0]
-[836, 75, 87, 87, 1.0]

@@ -1,0 +1,6 @@
+47_Matador_Bullfighter_matadorbullfighting_47_660.jpg
+4
+180 507 62 62 1.0
+796 511 56 56 1.0
+774 575 70 70 1.0
+443 845 31 31 1.0

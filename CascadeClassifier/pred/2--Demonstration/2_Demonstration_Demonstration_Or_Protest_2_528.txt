@@ -1,3 +1,0 @@
-2_Demonstration_Demonstration_Or_Protest_2_528.jpg
-1
-[32, 512, 74, 74, 1.0]

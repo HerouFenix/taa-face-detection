@@ -1,4 +1,0 @@
-31_Waiter_Waitress_Waiter_Waitress_31_7.jpg
-2
-[278, 125, 108, 108, 1.0]
-[587, 127, 106, 106, 1.0]

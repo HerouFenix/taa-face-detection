@@ -1,5 +1,0 @@
-47_Matador_Bullfighter_Matador_Bullfighter_47_86.jpg
-3
-[741, 92, 66, 66, 1.0]
-[378, 111, 100, 100, 1.0]
-[350, 465, 50, 50, 1.0]

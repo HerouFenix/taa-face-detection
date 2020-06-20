@@ -1,5 +1,0 @@
-52_Photographers_photographertakingphoto_52_599.jpg
-3
-[338, 270, 43, 43, 1.0]
-[303, 253, 47, 47, 1.0]
-[159, 266, 104, 104, 1.0]

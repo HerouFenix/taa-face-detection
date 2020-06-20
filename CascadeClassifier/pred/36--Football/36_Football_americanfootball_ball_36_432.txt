@@ -1,4 +1,0 @@
-36_Football_americanfootball_ball_36_432.jpg
-2
-[190, 100, 326, 326, 1.0]
-[480, 862, 28, 28, 1.0]

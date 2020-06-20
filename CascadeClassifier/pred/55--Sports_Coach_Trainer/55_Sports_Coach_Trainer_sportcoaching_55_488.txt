@@ -1,4 +1,0 @@
-55_Sports_Coach_Trainer_sportcoaching_55_488.jpg
-2
-[327, 12, 102, 102, 1.0]
-[215, 308, 48, 48, 1.0]

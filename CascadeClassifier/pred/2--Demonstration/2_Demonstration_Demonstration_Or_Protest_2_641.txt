@@ -1,5 +1,0 @@
-2_Demonstration_Demonstration_Or_Protest_2_641.jpg
-3
-[740, 120, 60, 60, 1.0]
-[279, 410, 27, 27, 1.0]
-[738, 286, 58, 58, 1.0]

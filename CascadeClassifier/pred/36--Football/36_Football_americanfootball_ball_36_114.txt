@@ -1,0 +1,5 @@
+36_Football_americanfootball_ball_36_114.jpg
+3
+208 25 50 50 1.0
+806 119 43 43 1.0
+379 136 157 157 1.0

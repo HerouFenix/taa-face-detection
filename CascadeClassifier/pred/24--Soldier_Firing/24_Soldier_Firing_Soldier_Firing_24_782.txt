@@ -1,3 +1,0 @@
-24_Soldier_Firing_Soldier_Firing_24_782.jpg
-1
-[569, 456, 64, 64, 1.0]

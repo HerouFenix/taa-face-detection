@@ -1,5 +1,5 @@
 10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_674.jpg
 3
-[215, 237, 60, 60, 1.0]
-[131, 460, 72, 72, 1.0]
-[119, 516, 87, 87, 1.0]
+215 237 60 60 1.0
+131 460 72 72 1.0
+119 516 87 87 1.0

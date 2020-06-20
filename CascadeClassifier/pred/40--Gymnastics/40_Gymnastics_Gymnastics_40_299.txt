@@ -1,3 +1,0 @@
-40_Gymnastics_Gymnastics_40_299.jpg
-1
-[20, 292, 112, 112, 1.0]

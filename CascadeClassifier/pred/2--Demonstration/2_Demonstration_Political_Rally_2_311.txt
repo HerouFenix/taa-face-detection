@@ -1,4 +1,0 @@
-2_Demonstration_Political_Rally_2_311.jpg
-2
-[747, 297, 121, 121, 1.0]
-[378, 413, 59, 59, 1.0]

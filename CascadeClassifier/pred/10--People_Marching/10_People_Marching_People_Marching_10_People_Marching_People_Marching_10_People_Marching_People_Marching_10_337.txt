@@ -1,7 +1,0 @@
-10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_337.jpg
-5
-[450, 276, 104, 104, 1.0]
-[386, 403, 62, 62, 1.0]
-[163, 435, 74, 74, 1.0]
-[594, 476, 103, 103, 1.0]
-[48, 611, 32, 32, 1.0]

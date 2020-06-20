@@ -1,4 +1,0 @@
-59_peopledrivingcar_peopledrivingcar_59_822.jpg
-2
-[900, 136, 123, 123, 1.0]
-[695, 173, 222, 222, 1.0]
