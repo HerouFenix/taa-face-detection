@@ -8,7 +8,7 @@ do
     opencv_traincascade -data "model${no_stages}stages" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages $no_stages -w 24 -h 24 
     duration=$(( SECONDS - start ))
 
-    echo $no_stages : $duration
+    echo $no_stages : $duration > "${no_stages}_Time"
 done
 
 
@@ -20,5 +20,5 @@ done
 #    opencv_traincascade -data "model${no_stages}stages" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages $no_stages -w 24 -h 24 
 #    duration=$(( SECONDS - start ))
 #
-#    echo $no_stages : $duration
+#    echo $no_stages : $duration > "${no_stages}_Time"
 #done
