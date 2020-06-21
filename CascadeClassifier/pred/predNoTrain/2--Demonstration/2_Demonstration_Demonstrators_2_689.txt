@@ -1,4 +1,0 @@
-2_Demonstration_Demonstrators_2_689.jpg
-2
-110 307 60 60 1.0
-198 670 68 68 1.0

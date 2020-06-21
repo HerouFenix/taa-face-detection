@@ -1,7 +1,0 @@
-10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_933.jpg
-5
-340 69 97 97 1.0
-657 14 104 104 1.0
-725 202 38 38 1.0
-726 183 74 74 1.0
-533 363 26 26 1.0

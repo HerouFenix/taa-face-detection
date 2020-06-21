@@ -1,4 +1,0 @@
-25_Soldier_Patrol_Soldier_Patrol_25_734.jpg
-2
-534 490 27 27 1.0
-349 597 57 57 1.0

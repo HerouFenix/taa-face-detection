@@ -1,4 +1,0 @@
-49_Greeting_peoplegreeting_49_207.jpg
-2
-252 156 59 59 1.0
-201 157 69 69 1.0

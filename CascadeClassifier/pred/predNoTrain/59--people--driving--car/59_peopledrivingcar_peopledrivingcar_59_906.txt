@@ -1,4 +1,0 @@
-59_peopledrivingcar_peopledrivingcar_59_906.jpg
-2
-264 418 321 321 1.0
-910 1012 80 80 1.0

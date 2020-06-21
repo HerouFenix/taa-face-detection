@@ -1,5 +1,0 @@
-8_Election_Campain_Election_Campaign_8_173.jpg
-3
-196 49 258 258 1.0
-680 150 222 222 1.0
-729 599 82 82 1.0
