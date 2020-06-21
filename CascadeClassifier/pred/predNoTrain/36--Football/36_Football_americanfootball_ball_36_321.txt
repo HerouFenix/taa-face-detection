@@ -1,5 +1,0 @@
-36_Football_americanfootball_ball_36_321.jpg
-3
-262 434 26 26 1.0
-202 481 26 26 1.0
-140 398 72 72 1.0

@@ -1,4 +1,0 @@
-13_Interview_Interview_Sequences_13_209.jpg
-2
-102 118 78 78 1.0
-435 63 63 63 1.0

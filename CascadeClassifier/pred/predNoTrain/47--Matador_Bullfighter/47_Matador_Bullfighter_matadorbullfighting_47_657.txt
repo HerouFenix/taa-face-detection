@@ -1,6 +1,0 @@
-47_Matador_Bullfighter_matadorbullfighting_47_657.jpg
-4
-801 142 62 62 1.0
-107 180 107 107 1.0
-807 362 52 52 1.0
-809 385 48 48 1.0

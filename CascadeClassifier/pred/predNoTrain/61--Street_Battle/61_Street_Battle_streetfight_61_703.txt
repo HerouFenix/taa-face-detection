@@ -1,4 +1,0 @@
-61_Street_Battle_streetfight_61_703.jpg
-2
-393 154 256 256 1.0
-750 431 28 28 1.0

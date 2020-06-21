@@ -1,7 +1,0 @@
-48_Parachutist_Paratrooper_Parachutist_Paratrooper_48_321.jpg
-5
-115 18 55 55 1.0
-877 25 57 57 1.0
-595 410 50 50 1.0
-380 362 52 52 1.0
-132 463 35 35 1.0

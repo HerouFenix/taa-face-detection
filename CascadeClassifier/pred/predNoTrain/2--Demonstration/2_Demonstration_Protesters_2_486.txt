@@ -1,4 +1,0 @@
-2_Demonstration_Protesters_2_486.jpg
-2
-16 401 128 128 1.0
-225 415 78 78 1.0
