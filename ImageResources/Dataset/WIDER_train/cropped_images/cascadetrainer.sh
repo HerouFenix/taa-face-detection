@@ -24,7 +24,7 @@
 #done
 
 
-for hit_rate in 0.85 0.9 0.95 0.99 
+for hit_rate in 0.95 0.99 0.999 0.9995
 do
     mkdir "model${hit_rate}hitrate"
 
@@ -32,7 +32,7 @@ do
     opencv_traincascade -data "model${hit_rate}hitrate" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 10 -minHitRate $hit_rate -w 24 -h 24 -numThreads 10
     duration=$(( SECONDS - start ))
 
-    echo "Rate-{$hit_rate}" : $duration > "${hit_rate}_Time"
+    echo "Rate-{$hit_rate}.txt" : $duration > "${hit_rate}_Time"
 done
 
 #for falseAlarm in 0.3 0.4 0.5 0.6
