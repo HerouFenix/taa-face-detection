@@ -29,19 +29,19 @@ do
     mkdir "model${hit_rate}hitrate"
 
     start=$SECONDS
-    opencv_traincascade -data "model${hit_rate}hitrate" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 10 -minHitRate $hit_rate -w 24 -h 24 -numThreads 10
+    opencv_traincascade -data "model${hit_rate}hitrate" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 15 -minHitRate $hit_rate -w 24 -h 24 -numThreads 11
     duration=$(( SECONDS - start ))
 
     echo "Rate-{$hit_rate}.txt" : $duration > "${hit_rate}_Time"
 done
 
-#for falseAlarm in 0.3 0.4 0.5 0.6
-#do
-#    mkdir "model${falseAlarm}falsealarm"
-#
-#    start=$SECONDS
-#    opencv_traincascade -data "model${falseAlarm}falsealarm" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 10 -maxFalseAlarmRate $falseAlarm -w 24 -h 24 -numThreads 10
-#    duration=$(( SECONDS - start ))
-#
-#    echo "Alarm-{$falseAlarm}" : $duration > "${falseAlarm}_Time"
-#done
+for falseAlarm in 0.3 0.4 0.5 0.6
+do
+    mkdir "model${falseAlarm}falsealarm"
+
+    start=$SECONDS
+    opencv_traincascade -data "model${falseAlarm}falsealarm" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 15 -maxFalseAlarmRate $falseAlarm -w 24 -h 24 -numThreads 11
+    duration=$(( SECONDS - start ))
+
+    echo "Alarm-{$falseAlarm}" : $duration > "${falseAlarm}_Time"
+done
