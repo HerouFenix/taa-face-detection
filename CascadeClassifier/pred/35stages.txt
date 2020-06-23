@@ -1,5 +1,548 @@
-ImageResources
+2_Demonstration_Demonstrators_2_456.jpg
 3
-174 161 343 343
-230 423 274 274
-764 474 66 66
+170 215 79 79
+14 292 85 85
+629 434 84 84
+19_Couple_Couple_19_139.jpg
+1
+374 71 34 34
+13_Interview_Interview_On_Location_13_166.jpg
+1
+378 170 301 301
+14_Traffic_Traffic_14_504.jpg
+0
+2_Demonstration_Protesters_2_525.jpg
+9
+948 348 26 26
+712 361 25 25
+78 382 25 25
+577 403 27 27
+761 402 27 27
+846 426 29 29
+759 459 29 29
+551 486 34 34
+659 486 36 36
+2_Demonstration_Political_Rally_2_90.jpg
+1
+425 149 126 126
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_235.jpg
+3
+180 409 208 208
+70 776 39 39
+427 582 66 66
+0_Parade_Parade_0_72.jpg
+0
+13_Interview_Interview_Sequences_13_31.jpg
+1
+643 278 161 161
+0_Parade_Parade_0_850.jpg
+2
+626 290 35 35
+485 304 26 26
+2_Demonstration_Protesters_2_370.jpg
+5
+43 276 44 44
+117 243 54 54
+261 241 53 53
+693 186 69 69
+497 218 63 63
+2_Demonstration_Demonstration_Or_Protest_2_430.jpg
+3
+104 245 60 60
+62 458 52 52
+284 493 52 52
+18_Concerts_Concerts_18_1015.jpg
+4
+390 632 59 59
+154 633 55 55
+615 856 63 63
+548 952 116 116
+13_Interview_Interview_2_People_Visible_13_189.jpg
+8
+751 247 40 40
+811 256 52 52
+568 187 47 47
+248 223 56 56
+914 246 55 55
+672 245 54 54
+509 220 64 64
+147 199 82 82
+12_Group_Group_12_Group_Group_12_80.jpg
+18
+135 116 33 33
+592 116 35 35
+521 100 36 36
+836 175 32 32
+704 124 30 30
+279 117 39 39
+417 225 44 44
+404 105 35 35
+802 120 34 34
+220 131 35 35
+347 131 36 36
+460 120 45 45
+637 117 37 37
+873 288 32 32
+764 286 42 42
+180 293 46 46
+301 305 38 38
+394 381 59 59
+17_Ceremony_Ceremony_17_765.jpg
+0
+18_Concerts_Concerts_18_60.jpg
+0
+2_Demonstration_Demonstrators_2_700.jpg
+0
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_583.jpg
+6
+987 154 34 34
+142 44 37 37
+826 174 29 29
+824 223 38 38
+549 216 50 50
+528 289 34 34
+2_Demonstration_Demonstrators_2_781.jpg
+8
+390 198 29 29
+533 218 32 32
+461 204 44 44
+532 144 83 83
+250 174 62 62
+910 198 73 73
+824 218 75 75
+290 381 65 65
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_619.jpg
+0
+2_Demonstration_Political_Rally_2_763.jpg
+6
+739 217 56 56
+429 199 61 61
+665 189 66 66
+532 160 83 83
+796 249 80 80
+531 464 154 154
+0_Parade_Parade_0_478.jpg
+1
+91 481 66 66
+2_Demonstration_Demonstrators_2_547.jpg
+6
+818 137 51 51
+479 163 51 51
+216 143 56 56
+642 166 46 46
+795 339 35 35
+213 129 83 83
+18_Concerts_Concerts_18_855.jpg
+0
+2_Demonstration_Demonstration_Or_Protest_2_619.jpg
+1
+117 174 59 59
+19_Couple_Couple_19_548.jpg
+2
+614 122 174 174
+274 172 178 178
+19_Couple_Couple_19_910.jpg
+3
+316 277 392 392
+93 567 75 75
+793 942 50 50
+2_Demonstration_Protesters_2_618.jpg
+14
+477 20 51 51
+239 47 56 56
+312 89 60 60
+141 73 54 54
+958 49 53 53
+515 171 59 59
+601 148 59 59
+697 47 56 56
+592 13 63 63
+358 167 67 67
+246 230 71 71
+808 236 61 61
+458 261 67 67
+858 266 65 65
+13_Interview_Interview_Sequences_13_691.jpg
+0
+0_Parade_Parade_0_266.jpg
+1
+952 338 33 33
+13_Interview_Interview_On_Location_13_728.jpg
+1
+50 368 567 567
+16_Award_Ceremony_Awards_Ceremony_16_270.jpg
+5
+378 821 102 102
+635 701 165 165
+451 700 103 103
+274 1192 56 56
+654 1264 55 55
+2_Demonstration_Demonstration_Or_Protest_2_1.jpg
+4
+213 135 36 36
+402 246 49 49
+155 385 27 27
+314 405 27 27
+2_Demonstration_Protesters_2_204.jpg
+2
+593 190 103 103
+396 6 93 93
+0_Parade_Parade_0_353.jpg
+0
+11_Meeting_Meeting_11_Meeting_Meeting_11_807.jpg
+2
+546 29 55 55
+590 221 61 61
+1_Handshaking_Handshaking_1_457.jpg
+1
+237 167 552 552
+1_Handshaking_Handshaking_1_380.jpg
+0
+1_Handshaking_Handshaking_1_275.jpg
+1
+446 299 183 183
+12_Group_Group_12_Group_Group_12_935.jpg
+1
+46 506 25 25
+13_Interview_Interview_Sequences_13_2.jpg
+7
+325 33 34 34
+489 171 58 58
+655 29 39 39
+638 239 77 77
+261 194 65 65
+626 292 28 28
+642 440 81 81
+17_Ceremony_Ceremony_17_782.jpg
+4
+613 82 170 170
+84 302 57 57
+638 140 121 121
+173 378 53 53
+2_Demonstration_Political_Rally_2_335.jpg
+36
+578 62 28 28
+12 31 24 24
+856 113 33 33
+240 180 29 29
+337 59 27 27
+612 79 35 35
+664 64 30 30
+877 152 36 36
+242 94 31 31
+443 157 30 30
+724 78 40 40
+231 228 43 43
+474 177 35 35
+572 134 40 40
+605 162 39 39
+649 112 63 63
+153 263 35 35
+103 263 56 56
+57 203 47 47
+648 227 55 55
+160 186 62 62
+444 377 47 47
+379 338 51 51
+889 344 60 60
+274 323 58 58
+403 261 57 57
+268 268 54 54
+272 429 61 61
+470 294 52 52
+666 415 66 66
+694 314 64 64
+294 320 75 75
+820 486 53 53
+776 568 80 80
+233 552 85 85
+343 505 72 72
+2_Demonstration_Political_Rally_2_940.jpg
+2
+110 81 75 75
+386 202 281 281
+18_Concerts_Concerts_18_657.jpg
+0
+19_Couple_Couple_19_810.jpg
+1
+582 48 74 74
+18_Concerts_Concerts_18_784.jpg
+2
+424 53 67 67
+237 290 394 394
+13_Interview_Interview_On_Location_13_510.jpg
+1
+558 198 50 50
+15_Stock_Market_Stock_Market_15_460.jpg
+7
+209 47 68 68
+773 80 65 65
+574 120 61 61
+446 149 57 57
+334 130 61 61
+148 129 71 71
+396 562 54 54
+12_Group_Group_12_Group_Group_12_101.jpg
+8
+347 214 57 57
+516 193 57 57
+475 130 56 56
+726 231 56 56
+657 135 60 60
+320 150 54 54
+826 151 55 55
+374 556 39 39
+2_Demonstration_Political_Rally_2_382.jpg
+5
+468 397 60 60
+334 100 66 66
+447 414 92 92
+379 517 146 146
+207 29 79 79
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_552.jpg
+1
+430 100 85 85
+2_Demonstration_Political_Rally_2_187.jpg
+8
+376 82 390 390
+588 743 38 38
+658 671 59 59
+53 878 50 50
+532 1200 86 86
+212 1290 56 56
+232 1255 62 62
+390 1188 113 113
+12_Group_Group_12_Group_Group_12_62.jpg
+15
+646 14 28 28
+397 127 48 48
+337 159 58 58
+740 100 52 52
+553 145 49 49
+253 135 55 55
+459 178 59 59
+800 126 59 59
+187 149 58 58
+648 141 60 60
+572 405 30 30
+321 286 93 93
+453 302 77 77
+453 323 82 82
+755 388 58 58
+12_Group_Team_Organized_Group_12_Group_Team_Organized_Group_12_868.jpg
+2
+449 112 82 82
+278 500 60 60
+13_Interview_Interview_2_People_Visible_13_668.jpg
+0
+15_Stock_Market_Stock_Market_15_554.jpg
+2
+500 227 89 89
+458 491 62 62
+0_Parade_Parade_0_120.jpg
+2
+103 304 49 49
+946 307 49 49
+16_Award_Ceremony_Awards_Ceremony_16_134.jpg
+3
+409 242 171 171
+335 867 49 49
+17 1626 35 35
+12_Group_Large_Group_12_Group_Large_Group_12_849.jpg
+0
+10_People_Marching_People_Marching_2_40.jpg
+10
+515 87 25 25
+228 92 25 25
+400 159 33 33
+779 207 29 29
+261 118 34 34
+936 247 47 47
+659 204 46 46
+149 204 74 74
+651 320 64 64
+847 453 59 59
+2_Demonstration_Demonstrators_2_545.jpg
+1
+3 222 30 30
+19_Couple_Couple_19_881.jpg
+3
+25 266 62 62
+588 233 122 122
+255 208 93 93
+2_Demonstration_Political_Rally_2_365.jpg
+1
+56 160 53 53
+13_Interview_Interview_Sequences_13_35.jpg
+3
+540 486 63 63
+419 447 140 140
+919 580 66 66
+12_Group_Group_12_Group_Group_12_912.jpg
+8
+826 71 48 48
+213 85 51 51
+283 193 49 49
+404 141 43 43
+690 179 48 48
+611 246 45 45
+485 246 48 48
+376 247 49 49
+11_Meeting_Meeting_11_Meeting_Meeting_11_406.jpg
+7
+530 218 57 57
+354 230 66 66
+270 323 29 29
+111 255 87 87
+868 274 83 83
+126 371 58 58
+580 548 56 56
+0_Parade_Parade_0_901.jpg
+1
+271 704 167 167
+18_Concerts_Concerts_18_828.jpg
+0
+2_Demonstration_Protesters_2_905.jpg
+1
+667 396 61 61
+18_Concerts_Concerts_18_258.jpg
+1
+135 259 39 39
+17_Ceremony_Ceremony_17_211.jpg
+5
+585 241 46 46
+218 214 47 47
+757 207 58 58
+836 159 66 66
+578 372 53 53
+12_Group_Group_12_Group_Group_12_522.jpg
+15
+299 234 43 43
+395 231 42 42
+788 285 48 48
+681 228 48 48
+369 305 43 43
+882 291 52 52
+720 297 50 50
+182 229 51 51
+595 263 47 47
+486 248 51 51
+107 224 57 57
+262 295 47 47
+357 406 50 50
+653 401 50 50
+502 392 51 51
+2_Demonstration_Political_Rally_2_726.jpg
+4
+308 81 52 52
+163 215 89 89
+108 106 131 131
+521 465 140 140
+2_Demonstration_Protesters_2_559.jpg
+0
+13_Interview_Interview_2_People_Visible_13_381.jpg
+1
+374 221 192 192
+18_Concerts_Concerts_18_252.jpg
+2
+483 177 62 62
+698 533 52 52
+13_Interview_Interview_On_Location_13_537.jpg
+0
+2_Demonstration_Demonstrators_2_100.jpg
+5
+400 191 271 271
+664 632 54 54
+512 636 60 60
+472 672 66 66
+478 728 85 85
+0_Parade_marchingband_1_629.jpg
+0
+16_Award_Ceremony_Awards_Ceremony_16_116.jpg
+2
+550 164 116 116
+386 193 138 138
+13_Interview_Interview_2_People_Visible_13_285.jpg
+1
+592 346 54 54
+18_Concerts_Concerts_18_469.jpg
+1
+6 305 48 48
+0_Parade_Parade_0_873.jpg
+14
+478 309 24 24
+850 329 28 28
+929 300 26 26
+275 375 26 26
+299 355 25 25
+816 321 26 26
+742 358 26 26
+399 325 33 33
+148 411 35 35
+770 360 28 28
+10 366 28 28
+705 405 44 44
+315 463 59 59
+817 516 67 67
+13_Interview_Interview_On_Location_13_190.jpg
+1
+279 232 54 54
+10_People_Marching_People_Marching_10_People_Marching_People_Marching_10_848.jpg
+0
+2_Demonstration_Demonstrators_2_329.jpg
+7
+854 166 46 46
+201 50 53 53
+932 182 36 36
+248 104 68 68
+841 255 58 58
+53 291 77 77
+263 387 74 74
+11_Meeting_Meeting_11_Meeting_Meeting_11_26.jpg
+1
+815 432 68 68
+2_Demonstration_Protesters_2_748.jpg
+0
+2_Demonstration_Political_Rally_2_791.jpg
+9
+588 44 71 71
+404 135 78 78
+646 279 78 78
+542 302 76 76
+391 353 74 74
+322 472 29 29
+193 405 98 98
+989 520 33 33
+314 484 61 61
+1_Handshaking_Handshaking_1_134.jpg
+1
+290 82 101 101
+10_People_Marching_People_Marching_2_269.jpg
+0
+19_Couple_Couple_19_509.jpg
+1
+382 432 75 75
+16_Award_Ceremony_Awards_Ceremony_16_85.jpg
+7
+694 278 26 26
+335 26 77 77
+161 194 62 62
+407 239 56 56
+266 247 57 57
+518 243 56 56
+819 267 65 65
+13_Interview_Interview_Sequences_13_807.jpg
+1
+384 127 223 223
+13_Interview_Interview_On_Location_13_912.jpg
+1
+243 385 501 501
+1_Handshaking_Handshaking_1_733.jpg
+1
+764 159 147 147
+19_Couple_Couple_19_1014.jpg
+1
+680 242 210 210
+1_Handshaking_Handshaking_1_522.jpg
+1
+251 512 51 51
