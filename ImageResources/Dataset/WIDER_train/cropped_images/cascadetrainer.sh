@@ -48,6 +48,6 @@
 
 mkdir "finalModel"
 start=$SECONDS
-opencv_traincascade -data "finalModel" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 27 -maxFalseAlarmRate 0.4 -minHitRate 0.99 -w 24 -h 24 -numThreads 10
+opencv_traincascade -data "finalModel" -vec faces.vec -bg negative_info.txt -numPos 1500 -numNeg 1500 -numStages 25 -maxFalseAlarmRate 0.4 -minHitRate 0.99 -w 24 -h 24 -numThreads 10
 duration=$(( SECONDS - start ))
 echo "FinalModel" : $duration > "FinalModel_Time"
